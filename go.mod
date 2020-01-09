@@ -1,4 +1,4 @@
-module github.com/devopsfaith/krakend-pubsub
+module github.com/pikju/krakend-pubsub
 
 go 1.12
 
